@@ -17,6 +17,7 @@ Wandering the streets by the Charles River, I photographed fire hydrants on 35mm
 
 What was once a bounding box is now a portrait.
 
+![somewhere@sfp](images/000088530034.jpg)
 ---
 
 ## 📷 Project Contents
@@ -33,6 +34,8 @@ Fire hydrants are among the most frequently labeled objects in early object dete
 With their bold shapes, fixed positions, and street-corner ubiquity, they offered the perfect subject for machine vision’s formative years — simple, reliable, and everywhere. Before deep networks turned to cats, faces, or dreams, the hydrant stood as a quiet constant.  
 
 This project revisits that role — not as annotation, but as presence; not as data, but as infrastructure made visible.
+
+![gym@sfp](images/000088530024.jpg)
 
 ---
 
@@ -55,7 +58,6 @@ For non-commercial use only. Contact for other usage.
 ## 🔗 Related
 - [Common Objects in Context dataset (COCO) - Class 11](https://cocodataset.org/#home)  
 - [Open Images Dataset (OID) - Class: `/m/01pns0`](https://storage.googleapis.com/openimages/web/index.html#/entity/m/01pns0)  
-
 ---
-
-### ▓▓▓ Lens to hydrant. Frame to frame. ▓▓▓
+###  Lens to hydrant. Frame to frame. 
+![somwhere@owa_tower](images/000088530016.jpg)
